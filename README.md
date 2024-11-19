@@ -1,6 +1,6 @@
 
 
-# 首頁
+# Home
 
 > lingmo-live-build-config-remix
 
