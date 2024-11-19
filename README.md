@@ -23,10 +23,3 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Lingmo OS / Adjustment](https://samwhelp.github.io/lingmo-adjustment/) | [GitHub](https://github.com/samwhelp/lingmo-adjustment) |
-
-
-
-
-## Samwhelp
-
-* [Samwhelp](https://samwhelp.github.io/book/)
