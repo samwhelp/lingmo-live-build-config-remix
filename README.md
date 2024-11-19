@@ -24,6 +24,6 @@
 | Link |
 | ---- |
 | Lingmo OS / [live-build-config](https://github.com/LingmoOS/live-build-config) |
-| Lali Linux / [live-build-config](https://gitlab.com/kalilinux/build-scripts/live-build-config) |
+| Kali Linux / [live-build-config](https://gitlab.com/kalilinux/build-scripts/live-build-config) |
 | [How to Creating A Custom Kali ISO](https://www.kali.org/docs/development/live-build-a-custom-kali-iso/) |
 | [Debian Live Manual](https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html) |
