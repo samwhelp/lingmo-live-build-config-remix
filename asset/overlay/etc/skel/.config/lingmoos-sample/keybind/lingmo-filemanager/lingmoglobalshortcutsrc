@@ -25,7 +25,7 @@ Exec=lingmo-launcher
 
 [Alt%2BShift%2BT]
 Comment=Terminal
-Exec=lingmo-terminal
+Exec=xfce4-terminal
 
 [Alt%2BCtrl%2BT]
 Comment=Terminal
@@ -33,15 +33,15 @@ Exec=qterminal
 
 [Alt%2BReturn]
 Comment=Terminal
-Exec=sakura
+Exec=lingmo-terminal
 
 [Alt%2BShift%2BA]
 Comment=Terminal
-Exec=sakura
+Exec=lingmo-terminal
 
 [Alt%2BCtrl%2BA]
 Comment=Terminal
-Exec=xfce4-terminal
+Exec=sakura
 
 [Alt%2BShift%2BF]
 Comment=File Manager
@@ -58,6 +58,10 @@ Exec=lingmo-texteditor
 [Alt%2BShift%2BB]
 Comment=Web Browser
 Exec=firefox --new-tab about:blank
+
+[Ctrl%2BPrint]
+Comment=Screenshot
+Exec=lingmo-screenshot
 
 [Alt%2BShift%2BR]
 Comment=Rofi Show Run
